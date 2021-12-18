@@ -12,7 +12,7 @@ Backend Developer and wine lover
 ### :grapes:Language & Framework
 - Java & Spring Framework
 
-### project
+### :banana:project
 개팅 : <https://getting.co.kr/>
 
 
