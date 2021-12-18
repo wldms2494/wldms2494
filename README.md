@@ -20,10 +20,10 @@
 ### :grapes:Language & Framework
 - Java & Spring Framework
 
-### :banana:project
+### :dog: project
 개팅 : <https://getting.co.kr/>
 
-### notion
+### :peach: notion
 [노션 바로 가기](https://www.notion.so/Jinny-s-CODE-Land-7a4c0367f38046c1aa445ebe01ade332)
 
 <!--
