@@ -1,11 +1,9 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+
 
 <!--
 **Jinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a href="https://www.notion.so/Jinny-s-CODE-Land-7a4c0367f38046c1aa445ebe01ade332" target="_blank"><img src="https://img.shields.io/badge/#000000-배경색?style=social&logo=qppveyor양&logo=로고&logoColor=로고색상"/></a>
-
-
 
 Here are some ideas to get you started:
 
