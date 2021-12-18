@@ -15,7 +15,7 @@
 ### :cherries:Interest
 - Object Oriented Programming
 - Clean code
-- Goot test
+- Goo test
 
 ### :grapes:Language & Framework
 - Java & Spring Framework
