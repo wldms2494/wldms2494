@@ -1,4 +1,4 @@
- Jieun Song / Backend Developer :paw_prints:
+ Jieun Song / Backend Developer :seedling:
  ============================================
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
