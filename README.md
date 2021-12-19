@@ -12,6 +12,9 @@
 
 #### Backend Developer and wine lover 
 
+### Languages
+Korean, English, Mandarin
+
 ### :cherries:Interest
 - Object Oriented Programming
 - Clean code
