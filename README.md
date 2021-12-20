@@ -23,7 +23,7 @@ Korean, English, Mandarin
 ### :grapes:Language & Framework
 - Java & Spring Framework
 
-### :dog: project
+### :dog: recent project
 개팅 : <https://getting.co.kr/>
 
 ### :peach: notion
