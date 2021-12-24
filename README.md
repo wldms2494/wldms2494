@@ -27,7 +27,7 @@ Korean, English, Mandarin
 개팅 : <https://getting.co.kr/>
 
 ### :peach: notion
-[노션 바로 가기](https://www.notion.so/Jinny-s-CODE-Land-7a4c0367f38046c1aa445ebe01ade332)
+[노션 바로 가기](https://www.notion.so/Jieun-Song-Backend-80a1d6bc53854a3092cbd5a507332e0e)
 
 <!--
 **Jinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
