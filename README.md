@@ -1,7 +1,8 @@
  Jieun Song / Backend Developer :seedling:
  ============================================
-<img src="https://img.shields.io/badge/salesforce-#00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
+<img src="https://img.shields.io/badge/Salesforce-#00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white">
 
+출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![APEX](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
