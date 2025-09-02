@@ -30,10 +30,13 @@ Korean, English, Mandarin
 - Good test
 
 ### :grapes:Language & Framework
-- Java & Spring Framework
-
+Salesforce Core: Apex, LWC, Aura  
+Web: JavaScript, HTML, CSS  
+Database & Query: SOQL, SQL  
+Framework: Spring Framework  
+ 
 ### :dog: recent project
-개팅 : <https://getting.co.kr/>
+개팅 : https://github.com/hanhae99-final-project-13/docking-final-project/tree/develop?tab=readme-ov-file
 
 ### :peach: notion
 check my [Notion](https://www.notion.so/Jieun-Song-Backend-80a1d6bc53854a3092cbd5a507332e0e)
